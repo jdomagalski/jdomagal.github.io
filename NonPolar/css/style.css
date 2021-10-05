@@ -1,3 +1,10 @@
 /* color pallete {
     red: #FA001C
     blue: #5151EE */
+
+
+
+.menu li{
+    display: inline;
+    padding-inline: 1.5rem;
+}
